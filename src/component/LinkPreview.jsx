@@ -14,7 +14,7 @@ export function LinkPreview({ url }) {
             height: '400px',
             marginLeft: '50%',
             transform: 'translateX(-50%)',
-            marginTop: '100px'
+            marginTop: '40px'
         },
         error: {
             color: 'red'
